@@ -1,0 +1,28 @@
+/* Global styles */
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+
+/* Outer Card */
+.card {
+    background-color: hsl(0, 0%, 100%);
+    width: 400px;
+    margin: auto;
+}
+
+/* Image */
+.qr-img {
+    width: 90%;
+}
+
+
+/* Attribution */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
