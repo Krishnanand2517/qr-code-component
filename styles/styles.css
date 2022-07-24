@@ -1,0 +1,46 @@
+/* Global styles */
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+}
+
+/* Outer Card */
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    margin: 100px auto;
+    width: 320px;
+}
+
+/* Image */
+.qr-img {
+    border-radius: 8%;
+    padding: 4%;
+    width: 90%;
+}
+
+/* Text */
+.text {
+    padding: 0 12% 7%;
+}
+
+.text h3 {
+    font-weight: 700;
+}
+
+.text p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 400;
+}
+
+
+/* Attribution */
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
