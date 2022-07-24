@@ -20,6 +20,21 @@ body {
     width: 90%;
 }
 
+/* Text */
+.text {
+    padding: 0 12% 7%;
+}
+
+.text h3 {
+    font-weight: 700;
+}
+
+.text p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 400;
+}
+
 
 /* Attribution */
 .attribution {
